@@ -93,7 +93,6 @@ MTB Pipeline/
 ---
 
 ## Running the Application
-
 ### 1. Start Streamlit UI
 ```sh
 streamlit run app.py

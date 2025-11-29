@@ -1,6 +1,6 @@
 torch
 torchvision
-numpy==2.3.0
+numpy
 Pillow
 open-clip-torch
 fastapi

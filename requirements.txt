@@ -1,0 +1,9 @@
+torch
+torchvision
+numpy==2.3.0
+Pillow
+open-clip-torch
+fastapi
+uvicorn
+python-multipart
+streamlit
